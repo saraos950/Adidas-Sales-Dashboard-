@@ -81,4 +81,4 @@ Units Sold = SUM(Sales[Units_Sold])
 ## 📥 How to Run Locally
 1. Clone or download this repository.
 2. Make sure you have **Power BI Desktop** installed.
-3. Open the `Adidas-Sales-Analytics-PowerBI.pbix` file from the repository files list above to explore the interactive dashboard.
+3. Open the [Adidas-Sales-Analytics-PowerBI.pbix](Adidas-Sales-Analytics-PowerBI.pbix) file from the repository files list above to explore the interactive dashboard.
